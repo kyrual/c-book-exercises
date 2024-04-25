@@ -7,5 +7,5 @@ Experiment with leaving out parts of the program, to see what error messages you
 
 main()
 {
-printf("hello, world\n");
+    printf("hello, world\n");
 }
